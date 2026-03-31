@@ -1,0 +1,10 @@
+streamlit
+numpy
+Pillow
+opencv-python
+opencv-python-headless
+tensorflow
+transformers
+matplotlib
+keras
+torch
