@@ -110,18 +110,6 @@ The app will open at `http://localhost:8501`. Sign up for an account, log in, th
 - [ ] Export detection history as CSV/PDF report
 - [ ] Dockerfile for one-command deployment
 
----
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to open a PR or an issue.
 
-## 📄 License
-
-This project is available under the MIT License. See `LICENSE` for details (add one if not already present).
-
-## 🙏 Acknowledgements
-
-- [MesoNet](https://github.com/DariusAf/MesoNet) — deepfake detection architecture
-- [prithivMLmods/Deep-Fake-Detector-Model](https://huggingface.co/prithivMLmods/Deep-Fake-Detector-Model) on Hugging Face
-- OpenCV Haar Cascades for face detection
